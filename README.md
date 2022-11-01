@@ -1,9 +1,9 @@
 # Mini-Python-Script
 
-##Description
+## Description
 
 This Repository has mini projects in Python, which I wrοte to experiment with Python and Jypiter.
 
-##Technologies
+## Technologies
 * Python 3.10
 * Jypiter
